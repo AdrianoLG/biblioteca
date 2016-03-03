@@ -1,3 +1,14 @@
 body {
 	font-family: sans-serif;
 }
+label {
+	display: inline-block;
+	width: 6em;
+}
+input {
+	width: 10em;
+}
+input[type="submit"] {
+	width: 6em;
+	padding: .5em 1em;
+}
