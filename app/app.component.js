@@ -24,7 +24,7 @@ System.register(['angular2/core'], function(exports_1, context_1) {
                 AppComponent = __decorate([
                     core_1.Component({
                         selector: 'formulario',
-                        templateUrl: '../template/formulario.php'
+                        templateUrl: '../template/formulario.html'
                     }), 
                     __metadata('design:paramtypes', [])
                 ], AppComponent);
